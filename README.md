@@ -21,8 +21,8 @@ This portfolio showcases my projects, skills, and contributions across various p
 
 ## 🚀 Coding Practice Platforms
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/your-leetcode-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/gmuniyappan1997/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gmuniyappan1997)
 
 ---
 
@@ -30,10 +30,10 @@ This portfolio showcases my projects, skills, and contributions across various p
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🧠 **Heart Disease ML Model** | Trained and evaluated ML models using patient data | Python, Scikit-learn |
+| 🧠 **Hospital Charge Prediction ML Model** | Trained and evaluated ML models using patient data | Python, Scikit-learn |
 | 📈 **Sales Dashboard** | Visualized KPIs and trends with filters | Power BI |
 | 🗃️ **SQL Customer Analysis** | Extracted insights using advanced SQL queries | PostgreSQL |
-| 🌐 **Global Happiness Viz** | Interactive story dashboards with filters | Tableau |
+| 🌐 **Crime History Viz** | Interactive story dashboards with filters | Tableau |
 
 ---
 
@@ -46,9 +46,9 @@ This portfolio showcases my projects, skills, and contributions across various p
 
 ## 🔗 Connect With Me
 
-- 📎 [GitHub Profile](https://github.com/your-username)
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
-- ✉️ your.email@example.com
+- 📎 [GitHub Profile](https://github.com/MunipsJe)
+- 💼 [LinkedIn](https://linkedin.com/in/muniyappangopal1825/)
+- ✉️ gmuniyappan1997@gmail.com
 
 ---
 
