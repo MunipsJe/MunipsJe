@@ -37,10 +37,7 @@ This portfolio showcases my projects, skills, and contributions across various p
 
 ---
 
-## 📸 Sample Visuals
 
-> _Add images in the `images/` folder and embed like:_
-> `![Dashboard](images/sales_dashboard.png)`
 
 ---
 
